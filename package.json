@@ -1,0 +1,19 @@
+{
+  "name": "besmartofficial",
+  "version": "1.0.0",
+  "description": "Official",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpeace8/BeSmartOfficial.git"
+  },
+  "author": "Daroush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpeace8/BeSmartOfficial/issues"
+  },
+  "homepage": "https://github.com/dpeace8/BeSmartOfficial#readme"
+}
